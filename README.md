@@ -38,6 +38,7 @@
 		- 当你有团队时，分配与调度好任务很关键
 			- 做得好是真并发
 			- 做不好会死锁
+
 #### 沟通、反馈与责任
 - 一个无沟通能力的人，要么是天才，要么是不可爱的人，不过天才也就寥寥无几而已，你并不是
 - 反馈要及时
@@ -74,39 +75,42 @@
 	- 不要局限在自己的圈子，适当跨界吸收灵感
 	- 订阅国内外优秀博客/资源，深蓝阅读不错
 	- 选择性参加一些必要的会议，听必要的主题，讨论必要的话题
-
 - 关于知识
 	- 对知识的渴望程度决定了前进动力的大小
 	- 当知识很廉价地摆在你面前，你反而不会珍惜
 	- 对知识保持敬畏之心
-
 - 不要让自己成为矫情/浮夸的人
 - 和比你厉害的人在一起，和一流的人工作
 	- 指点往往是精华
 	- 杜绝笨蛋爆炸
 		- 二流的人招进来的人不太可能是一流的
 		- 久而久之一个团队就笨蛋爆炸了
-
 - 思考
 	- 批判性思考
 	- 换位思考，对于一个团队来说，这个太关键
-
 - 提问的智慧
 	- 遇到问题先独立思考，尝试独立解决，尽最大努力后再提问
 	- 提问时，礼貌很关键（对知识的敬畏），清晰表达很关键
 	- 解决后，分享出来帮助更多需要帮助的人
-
 - 小事心态
 	- 越基础的事越关键，越需要细心
 	- 不要一味盲目追求**高级感**，而忽视**小事**/**简单事**/**基础事**
 	- 基础不牢、地动山摇
 	- 小事做不好，别提大事
-
 - 无论是个人还是团队的成长都需要不断沉淀知识，没有沉淀根基不稳
 
 ##专业技能
 - 原则
+  - 墨菲定律比你想象的还要靠谱
+  - 软件质量靠码农生产，而不靠测试加持
+  - 凡是听起来诡异的BUG，一定都有一个很愚蠢的问题原因
 - 基础必备
+  - IEEE 802.3 标准文档
+  - IEEE 802.1Q 标准文档
+  - [RFC1812 Requirements for IP Version 4 Routers](https://tools.ietf.org/html/rfc1812) 
+  - [RFC1925 The Twelve Networking Truths](https://tools.ietf.org/html/rfc1925)
+  - [RFC2544 Benchmarking Methodology for Network Interconnect Devices](https://tools.ietf.org/html/rfc2544)
+  - [RFC2889 Benchmarking Methodology for LAN Switching Devices](https://tools.ietf.org/html/rfc2544)
 - 研发能力
 	- 瀑布模型：需求->需求分析->设计->开发->测试->发布
 	- 需求分析能力
@@ -118,7 +122,6 @@
 	- 习惯记录，利于沉淀与分享
 	
 ##优质资源
-
 ### 书
 #### 基础
 - [C程序设计语言](http://book.douban.com/subject/1139336/)
@@ -175,7 +178,6 @@
 - [程序员修炼之道](http://book.douban.com/subject/6880016/)
 
 ###组织/项目
-
 - [SIGCOMM](http://www.sigcomm.org/)
 - [NSDI](https://www.usenix.org/)
 - [INFOCOM](http://infocom2016.ieee-infocom.org/)
@@ -189,7 +191,6 @@
 - [OPNFV](https://www.opnfv.org/)
 
 ### 网站信息
-
 - [IDC](https://www.idc.com/)
 - [Network World](http://www.networkworld.com/)
 - [SDNAP](http://www.sdnap.com/)
@@ -199,7 +200,6 @@
 网站的内容使用 [RSS](https://en.wikipedia.org/wiki/RSS) 端软件进行订阅效率更高。
 
 ### 微信公众号
-
 - 阿里技术保障
 - 鹅厂网事
 - 阿里云Club
