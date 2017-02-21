@@ -4,7 +4,6 @@
 
 技能表中通用技能源于[知道创宇研发技术表v3.0](http://blog.knownsec.com/Knownsec_RD_Checklist/v2.2.html)，知道创宇技能表也是触发我整理数通码农技能的直接原因，希望技能表能够为从事数通行业的码农提供有价值的信息。
 
-
 ##通用技能
 ###如何做事
 #### 方法论
@@ -64,7 +63,8 @@
 - 很多人都说自己具备足够好的团队意识，但是有些人却并不是这样
 	- 举个小例子：一个10人团队约定早上10点开会，而你迟到了10分钟，对于团队来说你浪费了整个团队100分钟（10人*10分钟）的生命。有些人无羞愧之心要么意识不到这点，要么这个团队的风气就是这样……
 - 团队意识是建立在互相信任的基础上
-- Leader最关键，优秀Leader一定会有个优秀团队
+- 团队事项优先级高于个人，团队事项包括：同行设计/代码 Review 等
+- Leader 最关键，优秀 Leader 一定会有个优秀团队
 	- 兵熊熊一个
 	- 将熊熊一窝
 - 如何拥有个优秀的团队是一个复杂的话题
@@ -73,7 +73,7 @@
 - 新事物的敏感性
 	- 保持好奇心
 	- 不要局限在自己的圈子，适当跨界吸收灵感
-	- 订阅国内外优秀博客/资源，深蓝阅读不错
+	- 订阅国内外优秀博客/资源
 	- 选择性参加一些必要的会议，听必要的主题，讨论必要的话题
 - 关于知识
 	- 对知识的渴望程度决定了前进动力的大小
@@ -86,6 +86,7 @@
 		- 二流的人招进来的人不太可能是一流的
 		- 久而久之一个团队就笨蛋爆炸了
 - 思考
+	- 独立思考
 	- 批判性思考
 	- 换位思考，对于一个团队来说，这个太关键
 - 提问的智慧
@@ -177,18 +178,21 @@
 - [改变未来的九大算法](http://book.douban.com/subject/24529132/)
 - [程序员修炼之道](http://book.douban.com/subject/6880016/)
 
-###组织/项目
+###组织
 - [SIGCOMM](http://www.sigcomm.org/)
 - [NSDI](https://www.usenix.org/)
-- [INFOCOM](http://infocom2016.ieee-infocom.org/)
+- [INFOCOM-2016](http://infocom2016.ieee-infocom.org/)
 - [OCP](http://www.opencompute.org/)
 - [ONF](https://www.opennetworking.org/)
+- [OPNFV](https://www.opnfv.org/)
+- [IETF-NVO3](https://datatracker.ietf.org/wg/nvo3/documents/)
+
+###项目
 - [OpenDataPlane](http://www.opendataplane.org/)
 - [Open Network Linux](http://opennetlinux.org/)
 - [OpenStack](http://www.openstack.org/)
 - [OpenSwitch](http://www.openswitch.net/)
 - [Open vSwitch](http://openvswitch.org/)
-- [OPNFV](https://www.opnfv.org/)
 
 ### 网站信息
 - [IDC](https://www.idc.com/)
