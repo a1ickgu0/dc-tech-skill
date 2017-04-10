@@ -127,8 +127,6 @@
 
 ### 书
 
-> 注:以下书箱中没有一句话注解的部分是我当前收集到，但还没有看的部分，希望大家一起补充
-
 #### 基础
 - [C程序设计语言](http://book.douban.com/subject/1139336/)
 - [C专家编程](http://book.douban.com/subject/2377310/)
@@ -164,9 +162,9 @@
 - [深入Linux内核架构](http://book.douban.com/subject/4843567/)
 
 #### 时间管理
-- [番茄工作法图解](http://book.douban.com/subject/5916234/)，如何有效管理任务时间，避免时间被碎片化
-- [比特素养](http://book.douban.com/subject/20471142/)，如何有效使用现代电子工具，特别是邮件及即时通讯工具(BQQ)
-- [搞定:压力工作的艺术](http://book.douban.com/subject/4849382/)，如何管理多项任务，避免陷入繁杂任务的深渊
+- [番茄工作法图解](http://book.douban.com/subject/5916234/)
+- [比特素养](http://book.douban.com/subject/20471142/)
+- [搞定:压力工作的艺术](http://book.douban.com/subject/4849382/)
 - [时间管理](http://book.douban.com/subject/7001106/)
 
 #### 其他
