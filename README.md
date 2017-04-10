@@ -1,11 +1,11 @@
-#数通码农技能
+# 数通码农技能
 
-##说明
+## 说明
 
 技能表中通用技能源于[知道创宇研发技术表v3.0](http://blog.knownsec.com/Knownsec_RD_Checklist/v2.2.html)，知道创宇技能表也是触发我整理数通码农技能的直接原因，希望技能表能够为从事数通行业的码农提供有价值的信息。
 
-##通用技能
-###如何做事
+## 通用技能
+### 如何做事
 #### 方法论
 - 完成一件事有好多条途径，优秀的人的途径最短
 - 任务拆分很容量得出做事的方法论
@@ -39,6 +39,7 @@
 			- 做不好会死锁
 
 #### 沟通、反馈与责任
+- 勤于思考，言出必践，不注重承诺的人，再有才华也只是夸夸其谈
 - 一个无沟通能力的人，要么是天才，要么是不可爱的人，不过天才也就寥寥无几而已，你并不是
 - 反馈要及时
 	- 避免出问题不反馈，影响进度
@@ -100,7 +101,7 @@
 	- 小事做不好，别提大事
 - 无论是个人还是团队的成长都需要不断沉淀知识，没有沉淀根基不稳
 
-##专业技能
+## 专业技能
 - 原则
   - 墨菲定律比你想象的还要靠谱
   - 软件质量靠码农生产，而不靠测试加持
@@ -122,8 +123,12 @@
 	- v1原则:定义好v1的目标，快速完成v1为优先
 	- 习惯记录，利于沉淀与分享
 	
-##优质资源
+## 优质资源
+
 ### 书
+
+> 注:以下书箱中没有一句话注解的部分是我当前收集到，但还没有看的部分，希望大家一起补充
+
 #### 基础
 - [C程序设计语言](http://book.douban.com/subject/1139336/)
 - [C专家编程](http://book.douban.com/subject/2377310/)
@@ -154,14 +159,14 @@
 - [硝烟中的Scrum和XP](http://book.douban.com/subject/3390446/)
 
 #### Linux
-- [深入Linux内核架构](http://book.douban.com/subject/4843567/)
 - [Linux内核设计与实现](http://book.douban.com/subject/6097773/)
 - [Linux Shell脚本攻略](http://book.douban.com/subject/25791952/)
+- [深入Linux内核架构](http://book.douban.com/subject/4843567/)
 
 #### 时间管理
-- [番茄工作法图解](http://book.douban.com/subject/5916234/)
-- [比特素养](http://book.douban.com/subject/20471142/)
-- [搞定:压力工作的艺术](http://book.douban.com/subject/4849382/)
+- [番茄工作法图解](http://book.douban.com/subject/5916234/)，如何有效管理任务时间，避免时间被碎片化
+- [比特素养](http://book.douban.com/subject/20471142/)，如何有效使用现代电子工具，特别是邮件及即时通讯工具(BQQ)
+- [搞定:压力工作的艺术](http://book.douban.com/subject/4849382/)，如何管理多项任务，避免陷入繁杂任务的深渊
 - [时间管理](http://book.douban.com/subject/7001106/)
 
 #### 其他
@@ -178,7 +183,7 @@
 - [改变未来的九大算法](http://book.douban.com/subject/24529132/)
 - [程序员修炼之道](http://book.douban.com/subject/6880016/)
 
-###组织
+### 组织
 - [SIGCOMM](http://www.sigcomm.org/)
 - [NSDI](https://www.usenix.org/)
 - [INFOCOM-2016](http://infocom2016.ieee-infocom.org/)
@@ -187,7 +192,7 @@
 - [OPNFV](https://www.opnfv.org/)
 - [IETF-NVO3](https://datatracker.ietf.org/wg/nvo3/documents/)
 
-###项目
+### 项目
 - [OpenDataPlane](http://www.opendataplane.org/)
 - [Open Network Linux](http://opennetlinux.org/)
 - [OpenStack](http://www.openstack.org/)
@@ -211,7 +216,7 @@
 - 企事录
 - SDNLAB
 
-##结尾
+## 结尾
 - 本技能表会持续不断更新
 
 
