@@ -109,7 +109,7 @@
 - 基础必备
   - IEEE 802.3 标准文档
   - IEEE 802.1Q 标准文档
-  - [RFC1812 Requirements for IP Version 4 Routers](https://tools.ietf.org/html/rfc1812) 
+  - [RFC1812 Requirements for IP Version 4 Routers](https://tools.ietf.org/html/rfc1812)
   - [RFC1925 The Twelve Networking Truths](https://tools.ietf.org/html/rfc1925)
   - [RFC2544 Benchmarking Methodology for Network Interconnect Devices](https://tools.ietf.org/html/rfc2544)
   - [RFC2889 Benchmarking Methodology for LAN Switching Devices](https://tools.ietf.org/html/rfc2544)
@@ -122,7 +122,7 @@
 	- 任务拆细
 	- v1原则:定义好v1的目标，快速完成v1为优先
 	- 习惯记录，利于沉淀与分享
-	
+
 ## 优质资源
 
 ### 书
@@ -207,6 +207,10 @@
 网站的内容使用 [RSS](https://en.wikipedia.org/wiki/RSS) 端软件进行订阅效率更高。
 
 ### 微信公众号
+
+>排名按个人喜好
+
+- 聊聊架构
 - 阿里技术保障
 - 鹅厂网事
 - 阿里云Club
@@ -214,8 +218,6 @@
 - 企事录
 - SDNLAB
 
+
 ## 结尾
 - 本技能表会持续不断更新
-
-
-
